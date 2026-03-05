@@ -1,5 +1,14 @@
 My data science projects and datasets used.
 
 - Analysis of (US) medical insurance costs and influential features including visualization.
-- Feature engineering of a dataset of customer reviews for a clothing company.
-- 
+- Feature creation for a dataset of customer reviews for a clothing company.
+- Linear regression 
+- Logistic regression to predict credit card fraud.
+- K-nearest neighbor to classify breast cancer.
+- Decision trees to find which continent a flag comes from.
+- Regularization to predict wine quality.
+- Hyperparameter tuning to classify raisins.
+- K-means to recognize handwriting digits.
+- Principal component analysis
+- Random forest and boosting to predict income.
+- Naive Bayes Classifier to analyze email similarity.
