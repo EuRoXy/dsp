@@ -12,3 +12,4 @@ My data science projects and datasets used.
 - Principal component analysis
 - Random forest and boosting to predict income.
 - Naive Bayes Classifier to analyze email similarity.
+- End-to-end machine learning pipeline to predict disease survival.
