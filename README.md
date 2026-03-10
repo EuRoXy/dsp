@@ -13,3 +13,4 @@ My data science projects and datasets used.
 - Random forest and boosting to predict income.
 - Naive Bayes Classifier to analyze email similarity.
 - End-to-end machine learning pipeline to predict disease survival.
+- Neural networks to predict insurance charge.
