@@ -2,7 +2,7 @@ My data science projects and datasets used.
 
 - Analysis of (US) medical insurance costs and influential features including visualization.
 - Feature creation for a dataset of customer reviews for a clothing company.
-- (simple) linear regression to predict student score.
+- simple linear regression to predict student score.
 - multiple linear regression to predict forest fire.
 - Logistic regression to predict credit card fraud and classify income.
 - K-nearest neighbor to classify breast cancer.
@@ -15,3 +15,4 @@ My data science projects and datasets used.
 - Naive Bayes Classifier to analyze email similarity.
 - End-to-end machine learning pipeline to predict disease survival.
 - Neural networks using Tensorflow to predict insurance charge.
+- Neural networks using PyTorch to predict apartment rent.
