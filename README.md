@@ -1,4 +1,4 @@
-My data science projects and datasets used.
+My data science projects:
 
 - Analysis of (US) medical insurance costs and influential features including visualization.
 - Feature creation for a dataset of customer reviews for a clothing company.
@@ -14,5 +14,4 @@ My data science projects and datasets used.
 - Random forest and boosting to predict income.
 - Naive Bayes Classifier to analyze email similarity.
 - End-to-end machine learning pipeline to predict disease survival.
-- Neural networks using Tensorflow to predict insurance charge.
-- Neural networks using PyTorch to predict apartment rent.
+- hypothesis testing for heart disease research.
