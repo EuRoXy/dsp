@@ -3,7 +3,7 @@ My data science projects:
 - Analysis of (US) medical insurance costs and influential features including visualization.
 - Feature creation for a dataset of customer reviews for a clothing company.
 - simple linear regression to predict student score.
-- multiple linear regression to predict housing price, forest fire, tennis wins.
+- multiple linear regression to predict [restaurant rating on Yelp](mult_linReg-Yelp.ipynb), housing price, forest fire, tennis wins.
 - Logistic regression to predict credit card fraud, classify income and foresee passenger survival on Titanic.
 - K-nearest neighbor to classify breast cancer.
 - Decision trees to find which continent a flag comes from.
@@ -15,4 +15,4 @@ My data science projects:
 - Naive Bayes Classifier to analyze email similarity.
 - End-to-end machine learning pipeline to predict disease survival.
 - hypothesis testing for heart disease research.
-- A/B testing for sample size at a meal delivery service. 
+- [A/B testing](AB-test.ipynb) for sample size at a meal delivery service. 
