@@ -15,4 +15,4 @@ My data science projects:
 - Naive Bayes Classifier to analyze email similarity.
 - End-to-end machine learning pipeline to predict disease survival.
 - hypothesis testing for heart disease research.
-- [A/B testing](AB-test.ipynb) for sample size at a meal delivery service. 
+- [A/B testing](AB-test.ipynb) for sample size at a meal delivery service and pricing of a social network game. 
