@@ -12,7 +12,7 @@ My data science projects:
 - K-means to recognize handwriting digits.
 - Principal component analysis
 - Random forest and boosting to predict income.
-- Naive Bayes Classifier to analyze email similarity.
+- Naive Bayes Classifier to analyze email similarity, [classify tweets location](tweet_loc_viral.ipynb).
 - End-to-end machine learning pipeline to predict disease survival.
 - hypothesis testing for heart disease research.
 - [A/B testing](AB-test.ipynb) for sample size at a meal delivery service and pricing of a social network game. 
