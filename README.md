@@ -2,7 +2,7 @@ My data science projects:
 
 - Analysis of (US) medical insurance costs and influential features including visualization.
 - Feature creation for a dataset of customer reviews for a clothing company.
-- simple linear regression to predict student score.
+- [simple linear regression](simple_linReg.ipynb) to predict student score, salary based on seniority in tech industry.
 - multiple linear regression to predict [restaurant rating on Yelp](mult_linReg-Yelp.ipynb), housing price, forest fire, tennis wins.
 - Logistic regression to predict credit card fraud, classify income and foresee passenger survival on Titanic.
 - K-nearest neighbor to classify breast cancer, to [predict whether a tweet will go viral](tweet_loc_viral.ipynb).
