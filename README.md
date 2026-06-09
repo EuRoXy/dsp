@@ -4,7 +4,7 @@ My data science projects:
 - Feature creation for a dataset of customer reviews for a clothing company.
 - [simple linear regression](simple_linReg.ipynb) to predict student score, salary based on seniority in tech industry.
 - multiple linear regression to predict [restaurant rating on Yelp](mult_linReg-Yelp.ipynb), housing price, [customer value, forest fire](mult_linReg.ipynb), [tennis wins](linReg-tennis.ipynb).
-- Logistic regression to predict credit card fraud, classify income and foresee passenger survival on Titanic.
+- [Logistic regression](logisReg.ipynb) to predict credit card fraud, classify income, foresee passenger survival on Titanic and warn brokerage customer churn.
 - K-nearest neighbor to classify breast cancer, to [predict whether a tweet will go viral](tweet_loc_viral.ipynb).
 - Decision trees to find which continent a flag comes from.
 - Regularization to predict wine quality.
